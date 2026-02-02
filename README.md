@@ -59,7 +59,7 @@ O projeto foi pensado para ser **escalável, modular e preparado para produção
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
 projeto-galeria/
 │
 ├── backend/
@@ -88,13 +88,12 @@ projeto-galeria/
 └── README.md
 
 yaml
-
+```
 ---
 
 ## ▶️ Como Executar o Projeto
 
 ### 🐳 Executar com Docker
-```bash
 docker-compose up --build
 💻 Executar Manualmente
 Backend
