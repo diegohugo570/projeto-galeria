@@ -48,7 +48,7 @@ O projeto foi pensado para ser **escalável, modular e preparado para produção
 
 ### ⚙️ Infraestrutura & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0db7ed?style=for-the-badge)
 
 - Containerização da aplicação  
 - Orquestração de múltiplos serviços  
