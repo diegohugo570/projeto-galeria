@@ -88,7 +88,6 @@ projeto-galeria/
 └── README.md
 
 yaml
-Copiar código
 
 ---
 
