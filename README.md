@@ -86,8 +86,6 @@ projeto-galeria/
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md
-
-yaml
 ```
 ---
 
